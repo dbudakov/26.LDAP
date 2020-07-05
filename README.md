@@ -9,7 +9,7 @@ LDAP
 ## Решение    
 Депллой стенда производится из каталога `./homework`  
 ```
-git clone
+git clone https://github.com/dbudakov/26.LDAP
 cd ./26.LDAP/homework
 vagrant up
 ```
